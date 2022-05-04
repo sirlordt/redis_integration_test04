@@ -1,3 +1,6 @@
 [submodule "external/libraries/hiredis/git_repo"]
 	path = external/libraries/hiredis/git_repo
 	url = https://github.com/redis/hiredis
+[submodule "external/libraries/redis_plus_plus/git_repo"]
+	path = external/libraries/redis_plus_plus/git_repo
+	url = https://github.com/sewenew/redis-plus-plus
